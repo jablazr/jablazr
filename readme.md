@@ -7,4 +7,4 @@ I also dabble in python, java and modding
 
 You can reach me on discord *Ace#1998*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jablazr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=jablazr&show_icons=true&theme=tokyonight)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
