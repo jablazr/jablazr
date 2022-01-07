@@ -3,7 +3,7 @@ Hi, I'm a js/ts programmer but I also like:
   - anime,
   - music & fitness
 
-I also dabble in python, java and modding
+I also dabble in other programming languages and modding
 
 You can reach me on discord *Ace#1998*
 
